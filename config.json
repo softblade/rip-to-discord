@@ -1,0 +1,19 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 28015,
+    "user": null,
+    "password": null,
+    "name": "news",
+    "article_table": "articles"
+  },
+  "scrapers": [
+    {
+      "name": "heroes_of_the_storm",
+      "discord_channel": "https://discordapp.com/api/webhooks/395530704261218305/XF7ZYMmGz0BLbq-0wp4-rH0QBo1UVvx6Nis6Aw924aOlA7sn6OEwyU84VR6QbcGyW0Om"
+    },
+    { "name": "guild_wars_2",
+      "discord_channel": "https://discordapp.com/api/webhooks/395530704261218305/XF7ZYMmGz0BLbq-0wp4-rH0QBo1UVvx6Nis6Aw924aOlA7sn6OEwyU84VR6QbcGyW0Om"
+    }
+  ]
+}
